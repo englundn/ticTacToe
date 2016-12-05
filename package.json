@@ -1,0 +1,27 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "command line tic tac toe game",
+  "main": "ticTacToe.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/englundn/ticTacToe.git"
+  },
+  "keywords": [
+    "tic",
+    "tac",
+    "toe"
+  ],
+  "author": "Nick Englund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/englundn/ticTacToe/issues"
+  },
+  "homepage": "https://github.com/englundn/ticTacToe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
